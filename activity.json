@@ -69,62 +69,131 @@
 	{
 	"question":"Where was donald trump Born?",
 	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+{
+	"question":"What's Donald Trump's middle name",
+	"option1":"John",
+	"option2":"James",
+	"option3":"Richard"
 	},
 	{
-	"question":"Where was donald trump Born?",
+	"question":"When Donald Trump was born?",
+	"option1":"1946",
+	"option2":"1944",
+	"option3":"1945"
+	},
+	{
+	"question":"Where was donald Trump Born?",
 	"option1":"Queens",
 	"option2":"Brooklyn",
 	"option3":"Manhattan"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"Where Trump Tower is located in Midtown Manhattan?",
+	"option1":"Fifth Avenue",
+	"option2":"Forth Avenue",
+	"option3":"Second Avenue"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"How many votes Donald Trump got in the State of Alabama(according New York Times)?",
+	"option1":"1,306,925",
+	"option2":"2,306,925",
+	"option3":"1,204,925"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"What was Donald Trump's Motto in 2016 Presidental Election?",
+	"option1":"Make America Great Again",
+	"option2":"Just do it",
+	"option3":"Peace and Prosperity"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"Which sports courses The Trump Organization operates?",
+	"option1":"Golf",
+	"option2":"Football",
+	"option3":"Baseball"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"To which Military Academy was Donald Trump sent at age 13?",
+	"option1":"New York",
+	"option2":"Alabama",
+	"option3":"Arizona"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"How many brothers and sisters Donald Trump has(excluding him)?",
+	"option1":"4",
+	"option2":"2",
+	"option3":"8"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"Which reality series he began producing and starring in 2004?",
+	"option1":"The Apprentice",
+	"option2":"The Voice",
+	"option3":"The President"
 	},
 	{
-	"question":"Where was donald trump Born?",
-	"option1":"Queens",
-	"option2":"Brooklyn",
-	"option3":"Manhattan"
+	"question":"When Donald Trump got married to Ivana Zelnickova Winklmayr?",
+	"option1":"1977",
+	"option2":"1978",
+	"option3":"1979"
+	},
+	{
+	"question":"Why Trump's older brother Fred Jr. died in 1981?",
+	"option1":"Alcoholism",
+	"option2":"Cancer",
+	"option3":"Heart Attack"
+	},
+	{
+	"question":"Where were all four of his grandparents born?",
+	"option1":"Europe",
+	"option2":"USA",
+	"option3":"Canada"
+	},
+	{
+	"question":"Which alcohol drink brand was produced by Trump?",
+	"option1":"Vodka",
+	"option2":"Whiskey",
+	"option3":"Vine"
+	},
+	{
+	"question":"How many Wives Donald Trump had?",
+	"option1":"3",
+	"option2":"5",
+	"option3":"2"
+	},
+	{
+	"question":"What was the occupation of Donald Trumps father ?",
+	"option1":"real estate developer",
+	"option2":"Building contractor",
+	"option3":"Actor"
+	},
+	{
+	"question":"How many children Donald Trump has?",
+	"option1":5",
+	"option2":"3",
+	"option3":"1"
+	},
+	{
+	"question":"Donald Trump was awarded WHAT in January 2007?",
+	"option1":"A Star on the Hollywood Walk of Fame",
+	"option2":"The Nobel Prize In Business and Commerce",
+	"option3":"Oscar"
+	},
+	{
+	"question":"A Donald Trump-themed board game was released in 2004. What was that game called",
+	"option1":"Trump, the Game",
+	"option2":"The Apprentice",
+	"option3":"Trump Casino"
+	},
+	{
+	"question":"Where did Donald Trump achived his bachelor’s degree in economics from?",
+	"option1":"University of Pennsylvania ",
+	"option2":"MIT",
+	"option3":"Harvard"
+	},
+	{
+	"question":"Donald Trump had a daughter with Marla Maples. What is that daughter's first name?",
+	"option1":"Tiffany",
+	"option2":"Ivanka",
+	"option3":"Robin"
 	}
 
 ]
