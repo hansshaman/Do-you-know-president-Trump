@@ -164,7 +164,7 @@
 	},
 	{
 	"question":"How many children Donald Trump has?",
-	"option1":5",
+	"option1":"5",
 	"option2":"3",
 	"option3":"1"
 	},
@@ -182,7 +182,7 @@
 	},
 	{
 	"question":"Where did Donald Trump achived his bachelor’s degree in economics from?",
-	"option1":"University of Pennsylvania ",
+	"option1":"University of Pennsylvania",
 	"option2":"MIT",
 	"option3":"Harvard"
 	},
